@@ -91,3 +91,5 @@ The module would return a list of dictionary objects with result as follows:
 - [https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48](https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48)
 
 
+
+
